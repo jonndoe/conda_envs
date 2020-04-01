@@ -1,0 +1,28 @@
+name: env27
+channels:
+  - defaults
+dependencies:
+  - _libgcc_mutex=0.1=main
+  - ca-certificates=2019.11.27=0
+  - certifi=2019.11.28=py27_0
+  - freetype=2.5.5=2
+  - jpeg=8d=2
+  - lcms=1.19=0
+  - libedit=3.1.20181209=hc058e9b_0
+  - libffi=3.2.1=hd88cf55_4
+  - libgcc-ng=9.1.0=hdf63c60_0
+  - libpng=1.6.37=hbc83047_0
+  - libstdcxx-ng=9.1.0=hdf63c60_0
+  - ncurses=6.1=he6710b0_1
+  - openssl=1.1.1d=h7b6447c_3
+  - pil=1.1.7=py27_2
+  - pip=19.1.1=py27_0
+  - python=2.7.16=h9bab390_0
+  - readline=7.0=h7b6447c_5
+  - setuptools=41.0.1=py27_0
+  - sqlite=3.28.0=h7b6447c_0
+  - tk=8.6.8=hbc83047_0
+  - wheel=0.33.4=py27_0
+  - zlib=1.2.11=h7b6447c_3
+prefix: /home/habrauser/miniconda3/envs/env27
+
